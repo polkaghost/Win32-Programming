@@ -1,4 +1,5 @@
 #include <windows.h>
+#include <iostream>
 
 int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrevInst, LPSTR args, int ncmdshow)
 {
